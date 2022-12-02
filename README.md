@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amr Salaheldin, an electronics engineer and certified LabVIEW developer 
 - 👀 I’m interested in LabView, Python, Machine Learning, Embedded Systems, Test and measurement.
-- 🌱 I’m currently learning Embedded Linux
+- 🌱 I’m currently ISTQB, NI TestStand
 - 📫 How to reach me amrn_6500@yahoo.com
 
 <!---
